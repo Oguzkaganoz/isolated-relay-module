@@ -1,0 +1,13 @@
+# KiCad geçici ve yedekleme dosyaları
+*.bak
+*-bak
+*.kicad_prl
+*.bck
+*_autosave*
+fp-info-cache
+*.erc
+*.drc
+
+# Üretim çıktıları
+# outputs/
+# gerber/
